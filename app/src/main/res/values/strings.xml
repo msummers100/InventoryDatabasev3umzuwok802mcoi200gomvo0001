@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Inventory App v3.0</string>
+    <string name="product_details">Product Details</string>
+    <string name="supplier_name">Supplier Name: </string>
+    <string name="supplier_email">Supplier Email: </string>
+    <string name="increase_quantity_button">Increase</string>
+    <string name="decrease_quantity_button">Decrease</string>
+    <string name="quantity_change_by">Quantity By:</string>
+    <string name="order_button">Order</string>
+    <string name="delete_button">Delete</string>
+    <string name="add_a_product">Add a Product</string>
+    <string name="upload_photo_button">Upload a Photo</string>
+    <string name="product_name">Product Name:</string>
+    <string name="product_price">Price(USD):</string>
+    <string name="product_current_quantity">Quantity:</string>
+    <string name="insert_product_failed">Error with saving product</string>
+    <string name="insert_product_succeeded">Product Saved</string>
+    <string name="emptytextview">Inventory Empty.\nTo get started, please click on the check mark below and build your inventory!</string>
+</resources>

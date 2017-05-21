@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\AndroidStudioProjects\InventoryDatabasev3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Michael\AndroidStudioProjects\InventoryDatabasev3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9fa0908e1eb37fb8dac6a522fce66df49dfcf287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\AndroidStudioProjects\InventoryDatabasev3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7aeb087e8a5f99248298a2a6b843c569f9116965">
+        <dex dex="C:\Users\Michael\AndroidStudioProjects\InventoryDatabasev3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c0683b9096412dd3a68a0b456dec6b649c9aa4e5\classes.dex" />
+    </item>
+
+</items>
